@@ -1,16 +1,13 @@
-### Hi there 👋
+# Furkan's Profile
 
-<!--
-**furkandoganktf/furkandoganktf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/FKHj8Pb.png" alt="Hello world">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Visitor count<br>
+    <img src="https://profile-counter.glitch.me/furkandoganktf/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Software Engineer at [Haystack](http://usehaystack.io/).
+- For more info check my [website](http://furkandoganktf.github.io), [email](mailto:furkandoganktf@gmail.com) or [twitter](https://twitter.com/furkandoganktf).
