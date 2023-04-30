@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-    <img src="https://express-on-nodejs.furkandoganktf1.repl.co/count.svg" />
+    <img src="https://profile-counter.glitch.me/furkandogan/count.svg" />
 </p>
 
 ## About me
