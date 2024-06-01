@@ -11,4 +11,4 @@
 
 - Founder at [CronShot](https://cronshot.io).
 - Software Engineer at [Haystack](http://usehaystack.io/).
-- For more info check my [website](http://furkandoganktf.github.io), [email](mailto:furkandoganktf@gmail.com) or [twitter](https://twitter.com/furkandoganktf).
+- For more info check my [website](http://furkando.com), [email](mailto:me@furkando.com) or [twitter](https://twitter.com/frkndo).
