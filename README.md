@@ -9,6 +9,6 @@
 
 ## About me
 
-- Founder at [CronShot](https://cronshot.io).
+- Builder of [CronShot](https://cronshot.io).
 - Software Engineer at [Haystack](http://usehaystack.io/).
 - For more info check my [website](http://furkando.com), [email](mailto:me@furkando.com) or [twitter](https://twitter.com/frkndo).
