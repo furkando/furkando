@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-    <img src="https://profile-counter.glitch.me/furkandogan/count.svg" />
+    ![](https://komarev.com/ghpvc/?username=furkando)
 </p>
 
 ## About me
