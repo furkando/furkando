@@ -1,11 +1,6 @@
 # Furkan's Profile
-
+![](https://komarev.com/ghpvc/?username=furkando)
 <img src="https://i.imgur.com/FKHj8Pb.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-    ![](https://komarev.com/ghpvc/?username=furkando)
-</p>
 
 ## About me
 
